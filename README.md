@@ -1,1 +1,1 @@
-# Home of all of the jeti.io packages. 
+# Home of all of the [jeti.io](http://www.jeti.io/) packages. 
